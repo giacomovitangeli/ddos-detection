@@ -167,7 +167,8 @@ Thumbs.db
 
 # Dataset
 cicddos2019_dataset.csv
-#enron-spam/
+01-12/
+03-11/
 
 # PKL
 *.pkl
