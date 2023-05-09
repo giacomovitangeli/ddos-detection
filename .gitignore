@@ -177,3 +177,7 @@ Thumbs.db
 
 #zip
 *.zip
+
+# Models
+
+Models/
