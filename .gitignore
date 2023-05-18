@@ -166,9 +166,18 @@ ehthumbs.db
 Thumbs.db
 
 # Dataset
-cicddos2019_dataset.csv
 01-12/
 03-11/
 
 # PKL
 *.pkl
+
+#CSV
+*.csv
+
+#zip
+*.zip
+
+# Models
+
+Models/
